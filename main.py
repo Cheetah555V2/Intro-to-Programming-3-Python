@@ -1,2 +1,1 @@
-print("Cheetah")
-print("Kam")
+print("Kam & Cheetah")
