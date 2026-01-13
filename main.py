@@ -1,0 +1,2 @@
+print("Cheetah")
+print("Kam")
